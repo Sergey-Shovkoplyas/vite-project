@@ -1,0 +1,6 @@
+{
+  "title": "!!!Vite + React",
+  "counter": "Anzahl: {{count}}",
+  "hint": "<1>src/App.tsx</1> bearbeiten und speichern, um HMR zu testen",
+  "docs": "Klicke auf die Vite- und React-Logos, um mehr zu erfahren"
+}

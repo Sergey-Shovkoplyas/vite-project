@@ -1,0 +1,6 @@
+{
+  "title": "!!!Vite + React",
+  "counter": "count is {{count}}",
+  "hint": "Edit <1>src/App.tsx</1> and save to test HMR",
+  "docs": "Click on the Vite and React logos to learn more"
+}
